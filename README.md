@@ -1,1 +1,1 @@
-『Ruby On Rails チュートリアル』で作成したTwitter風アプリです。
+『Ruby on Rails チュートリアル』で作成したTwitter風アプリです。
